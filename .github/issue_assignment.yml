@@ -1,0 +1,14 @@
+---
+- rule:
+    booleanFilterExpression: "DataPlane&&DotNet"
+    assignees:
+      - ruowan
+- rule:
+    booleanFilterExpression: "DataPlane&&Python"
+    assignees:
+      - tiramisuq
+- rule:
+    booleanFilterExpression: "ManagementPlane&&Go"
+    assignees:
+      - NullMDR
+      - zhenglaizhang
